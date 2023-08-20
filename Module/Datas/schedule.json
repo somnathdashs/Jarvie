@@ -1,0 +1,44 @@
+{
+    "Monday": {
+        "6:00 AM": "Get up and get fresh and do some meditation.",
+        "7:00 AM": "Make your breakfast and lunch.",
+        "9:00 AM": "Get ready for work",
+        "4:30 PM": "Welcome back from work. Now , you have to take some rest."
+    },
+    "Tuesday": {
+        "6:00 AM": "Get up and get fresh and do some meditation.",
+        "7:00 AM": "Make your breakfast and lunch.",
+        "9:00 AM": "Get ready for work",
+        "4:30 PM": "Welcome back from work. Now , you have to take some rest."
+    },
+    "wednesday": {
+        "6:00 AM": "Get up and get fresh and do some meditation.",
+        "7:00 AM": "Make your breakfast and lunch.",
+        "9:00 AM": "Get ready for work",
+        "4:30 PM": "Welcome back from work. Now , you have to take some rest."
+    },
+    "Thusday": {
+        "6:00 AM": "Get up and get fresh and do some meditation.",
+        "7:00 AM": "Make your breakfast and lunch.",
+        "9:00 AM": "Get ready for work",
+        "4:30 PM": "Welcome back from work. Now , you have to take some rest."
+    },
+    "Friday": {
+        "6:00 AM": "Get up and get fresh and do some meditation.",
+        "7:00 AM": "Make your breakfast and lunch.",
+        "9:00 AM": "Get ready for work",
+        "4:30 PM": "Welcome back from work. Now , you have to take some rest."
+    },
+    "Saturday": {
+        "6:00 AM": "Get up and get fresh and do some meditation.",
+        "7:00 AM": "Make your breakfast and lunch.",
+        "9:00 AM": "Get ready for work",
+        "4:30 PM": "Welcome back from work. Now , you have to take some rest."
+    },
+    "Sunday": {
+        "7:04 PM": "Demo time table",
+        "7:05 PM": "Deom in single line.",
+        "7:06 PM": "Deom time table \nIn Two Line",
+        "7:07 PM": "Demo Time table \nIn Multipule\nLine.\n Take your lunch now."
+    }
+}
