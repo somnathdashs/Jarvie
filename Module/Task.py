@@ -95,8 +95,8 @@ def Send_Email(To,Msg):
     Mail.ehlo()
     Mail.starttls()
     Mail.ehlo()
-    Mail.login("ppythonparadise@gmail.com",EmailPass)
-    Mail.sendmail("ppythonparadise@gmail.com",To,Msg)
+    Mail.login("Your_Email@xyz.com",EmailPass)
+    Mail.sendmail("Their_Email@xyz.com",To,Msg)
     Mail.close()
     return "Mail has been send successfully."
     
